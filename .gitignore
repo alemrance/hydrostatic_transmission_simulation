@@ -1,0 +1,5 @@
+# Simulink derleme önbellekleri
+slprj/
+*.slxc
+*.asv
+*.autosave
